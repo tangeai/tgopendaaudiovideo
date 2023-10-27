@@ -6,6 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "DAAudioVideo.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

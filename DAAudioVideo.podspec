@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "DAAudioVideo"
-  s.version = "1.0.2"
+  s.version = "1.0.3"
   s.summary = "A short description of TGCommonBaseModule."
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"liubin"=>"liubin361163@163.com"}

@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "DAFrame.h"
 NS_ASSUME_NONNULL_BEGIN
 
 @interface DACustomCacheQueue <__covariant ObjectType> : NSObject

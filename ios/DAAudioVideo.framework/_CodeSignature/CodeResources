@@ -36,6 +36,10 @@
 		<data>
 		T/bjr1PIUHuP3yqTDC39VifODmE=
 		</data>
+		<key>Headers/DACustomCacheQueue.h</key>
+		<data>
+		Ezp9o+uF9/ZYbuKty8Mp1LJbqRg=
+		</data>
 		<key>Headers/DACustomQueue.h</key>
 		<data>
 		EKaRPWc03o9m+AaHpcI4EVDRw7U=
@@ -157,6 +161,17 @@
 			<key>hash2</key>
 			<data>
 			zrLM3i2dwApLnOX7EIZvZ01DzCVIn//Ga7uH8ooL12A=
+			</data>
+		</dict>
+		<key>Headers/DACustomCacheQueue.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ezp9o+uF9/ZYbuKty8Mp1LJbqRg=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZkhkIu8r5sWikWKkO6nS+9NDRCCmdjQ34dQkKoEjSUE=
 			</data>
 		</dict>
 		<key>Headers/DACustomQueue.h</key>

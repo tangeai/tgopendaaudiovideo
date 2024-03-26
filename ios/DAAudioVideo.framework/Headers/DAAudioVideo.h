@@ -29,3 +29,4 @@ FOUNDATION_EXPORT const unsigned char DAAudioVideoVersionString[];
 #import <DAAudioVideo/DAVideoHardwareDecoder.h>
 #import <DAAudioVideo/DAAudioUnitPCMRecorder.h>
 #import <DAAudioVideo/DASaveWavFileFormatTool.h>
+#import <DAAudioVideo/DACustomCacheQueue.h>

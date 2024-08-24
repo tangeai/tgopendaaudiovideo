@@ -19,6 +19,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, copy) void(^stopRecordCallback)(NSString *filePath);
 
 - (void)startRecordWithFileName:(NSString *)fileName;
+- (void)startRecordWithFileName:(NSString *)fileName widthPixel:(int)width heightPixel:(int)height;
 - (void)stopRecordWithVideoPath:(nullable void(^)(NSString *filePath))callBack;
 
 - (BOOL)writeVideoData:(DACameraP2PVideoData *)videoData;

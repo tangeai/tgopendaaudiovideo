@@ -17,6 +17,10 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign, readonly) BOOL isRecording;
 @property (nonatomic, assign) NSInteger minRecordTime;//默认最短录像时长1s
 @property (nonatomic, copy) void(^stopRecordCallback)(NSString *filePath);
+@property (nonatomic, assign) float sharpness;  // 0.0 表示无锐化，1.0 表示完全锐化
+@property (nonatomic, assign) float saturation; // 0.0 表示去饱和（灰度），1.0 保持原饱和度，>1.0 增加饱和度
+@property (nonatomic, assign) float brightness; // -1.0 降低亮度，0.0 保持不变，1.0 增加亮度
+@property (nonatomic, assign) float contrast;   // < 1.0 减少对比度，1.0 保持原对比度，>1.0 增加对比度
 
 - (void)startRecordWithFileName:(NSString *)fileName;
 - (void)startRecordWithFileName:(NSString *)fileName widthPixel:(int)width heightPixel:(int)height;

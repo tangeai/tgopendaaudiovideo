@@ -22,7 +22,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign) unsigned int timeStamp;   //用于视频播放时休眠
 @property (nonatomic, assign) NSInteger timeInterval;   //用于视频播放时UI上展示当前的播放时间点
 @property (nonatomic, assign) NSInteger dataInterval;   //用于云回放标记该帧在哪一个5秒的文件中
-@property (nonatomic, assign) NSInteger utcTimeStamp;
+@property (nonatomic, assign) NSInteger utcTimeStamp;   //sd卡录像用于判断当前录像时间
 @property (nonatomic, assign) unsigned int dataLength;
 @property (nonatomic, assign) unsigned int channel;
 @property (nonatomic, assign, nullable) unsigned char *buffer;

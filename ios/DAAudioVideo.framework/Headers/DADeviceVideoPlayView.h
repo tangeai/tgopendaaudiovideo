@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import <AVFoundation/AVFoundation.h>
+#import "DACameraP2PVideoData.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -19,6 +20,7 @@ typedef NS_ENUM(NSInteger,DAVideoPlayViewContentMode) {
 
 @interface DADeviceVideoPlayView : UIView
 
+@property (nonatomic, assign) int64_t iphoneTimeStamp;;
 @property (nonatomic, strong) UIImage *image;
 @property (nonatomic, assign) CMSampleBufferRef sampleBuffer;
 @property (nonatomic, assign) DAVideoPlayViewContentMode mode;

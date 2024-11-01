@@ -29,6 +29,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign, nullable) CMSampleBufferRef sampleBuffer;
 @property (nonatomic, strong, nullable) UIImage *image;
 @property (nonatomic, assign) NSInteger sessionId;
+@property (nonatomic, assign) int64_t iphoneTimeStamp; // 手机接收到帧的本地时间
 
 - (BOOL)isHardwareDecoderSupport;
 

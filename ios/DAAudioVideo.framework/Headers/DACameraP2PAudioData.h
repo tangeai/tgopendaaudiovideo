@@ -25,6 +25,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign, nullable) unsigned char *pcmBuffer;
 @property (nonatomic, assign) NSInteger sessionId;
 @property (nonatomic, strong) DAAudioConfigModel *config;
+@property (nonatomic, assign) int64_t iphoneTimeStamp; // 手机接收到帧的本地时间
 
 @end
 

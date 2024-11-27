@@ -14,6 +14,7 @@ NS_ASSUME_NONNULL_BEGIN
 @protocol DAAudioSessionManagerDelegate <NSObject>
 
 - (void)audioSessionManagerDidRecordWithData:(void *)data length:(unsigned int)length config:(DAAudioConfigModel *)config;
+- (void)tg_audioSessionManagerDidRecordWithData:(void *)data length:(unsigned int)length config:(DAAudioConfigModel *)config;
 
 @end
 
@@ -32,6 +33,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)startSpeakWithConfig:(DAAudioConfigModel *)config;
 - (void)stopSpeak;
+
+- (void)tg_setAudioSessionManagerDidRecordWithData:(void *)audioData length:(unsigned int)audioLength config:(DAAudioConfigModel *)config;
 
 @end
 

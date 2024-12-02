@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "DAAudioVideo"
-  s.version = "1.1.6"
+  s.version = "1.1.6.1"
   s.summary = "A short description of TGCommonBaseModule."
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"liubin"=>"liubin361163@163.com"}
@@ -14,6 +14,7 @@ Pod::Spec.new do |s|
 #  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64','DEVELOPMENT_TEAM' => 'UAL776976T','OTHER_CFLAGS' => '-DLINUX -D__MAC_OS__' }
   s.source_files = 'ios/DAAudioVideo.framework/Headers/*.h'
   s.ios.vendored_frameworks   = 'ios/**/*.framework'
+  s.frameworks = 'UIKit'
   s.libraries = 'bz2','c++','iconv','z'
   s.dependency 'CocoaLumberjack'
   s.dependency 'ffmpeg-kit-ios-full', '~> 6.0'

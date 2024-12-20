@@ -22,7 +22,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign) unsigned int timeStamp;   //视频帧时间
 @property (nonatomic, assign) NSInteger timeInterval;   //用于视频播放时UI上展示当前的播放时间点
 @property (nonatomic, assign) NSInteger dataInterval;   //用于云回放标记该帧在哪一个5秒的文件中
-@property (nonatomic, assign) NSInteger utcTimeStamp;   //sd卡录像用于判断当前录像时间
+@property (nonatomic, assign) NSInteger utcTimeStamp;   //sd卡录像用于判断当前录像时间 或 实时时间戳
 @property (nonatomic, assign) unsigned int dataLength;
 @property (nonatomic, assign) unsigned int channel;
 @property (nonatomic, assign, nullable) unsigned char *buffer;
@@ -30,7 +30,6 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong, nullable) UIImage *image;
 @property (nonatomic, assign) NSInteger sessionId;
 @property (nonatomic, assign) int64_t iphoneTimeStamp; // 手机接收到帧的本地时间
-
 - (BOOL)isHardwareDecoderSupport;
 
 @end

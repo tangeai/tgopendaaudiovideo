@@ -9,6 +9,9 @@
 #import <Foundation/Foundation.h>
 NS_ASSUME_NONNULL_BEGIN
 
+#define DA_CustomCacheQueueStart @"DACustomCacheQueueStart"
+#define DA_CustomCacheQueueEnd @"DA_CustomCacheQueueEnd"
+
 @interface DACustomCacheQueue <__covariant ObjectType> : NSObject
 
 @property (nonatomic, readonly) BOOL isEnabled; // 缓存是否已经准备好

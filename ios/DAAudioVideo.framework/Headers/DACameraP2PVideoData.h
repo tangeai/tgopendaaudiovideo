@@ -31,6 +31,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong, nullable) UIImage *image;
 @property (nonatomic, assign) NSInteger sessionId;
 @property (nonatomic, assign) int64_t iphoneTimeStamp; // 手机接收到帧的本地时间
+@property (nonatomic, assign) unsigned int videoType; // 0 实时 1卡录像 2云录像
 - (BOOL)isHardwareDecoderSupport;
 
 @end

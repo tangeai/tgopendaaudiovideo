@@ -22,6 +22,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign) float saturation; // 0.0 表示去饱和（灰度），1.0 保持原饱和度，>1.0 增加饱和度
 @property (nonatomic, assign) float brightness; // -1.0 降低亮度，0.0 保持不变，1.0 增加亮度
 @property (nonatomic, assign) float contrast;   // < 1.0 减少对比度，1.0 保持原对比度，>1.0 增加对比度
+@property (nonatomic, assign) BOOL downloadModeOpen;
 
 - (void)startRecordWithFileName:(NSString *)fileName;
 - (void)startRecordWithFileName:(NSString *)fileName widthPixel:(int)width heightPixel:(int)height;

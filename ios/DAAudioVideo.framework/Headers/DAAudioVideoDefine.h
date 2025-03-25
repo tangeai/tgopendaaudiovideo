@@ -36,5 +36,6 @@ typedef NS_ENUM(NSInteger, DAVideoFrameType) {
 
 extern NSString * const DAMp4DidStartRecordNotification;
 extern NSString * const DAMp4DidStopRecordNotification;
+extern NSString * const DAPlayerFirstFrameNotification;
 
 #endif /* DAAudioVideoDefine_h */

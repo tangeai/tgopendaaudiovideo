@@ -12,6 +12,10 @@
 		<data>
 		G/HCX0T17wLCaaoiGVMomg1SiCA=
 		</data>
+		<key>Headers/DAAudioUnitAACDecoder.h</key>
+		<data>
+		SewN4l1YKyYTJ3hBbtlTRZtx204=
+		</data>
 		<key>Headers/DAAudioUnitPCMPlayer.h</key>
 		<data>
 		8y/VxdWVa882PQeLU3Ou/qgdQls=
@@ -26,7 +30,7 @@
 		</data>
 		<key>Headers/DAAudioVideoDefine.h</key>
 		<data>
-		Hks4xewFiL0Dl9hDUNlnhMg67Uk=
+		EHpvI2JP/dSF1Ag8nMLcenJAv2g=
 		</data>
 		<key>Headers/DACameraP2PAudioData.h</key>
 		<data>
@@ -47,6 +51,10 @@
 		<key>Headers/DADeviceVideoPlayView.h</key>
 		<data>
 		xXIKh+W2tmms3Hx3K9gvJNBdszw=
+		</data>
+		<key>Headers/DAG711Manager.h</key>
+		<data>
+		9FhMRzEGKE+/VL6nr5MwWsC4Bm0=
 		</data>
 		<key>Headers/DAMP4RecordManager.h</key>
 		<data>
@@ -97,6 +105,17 @@
 			VKcQcY6WH48V4NF1kZwJ4rCq5lrYAcHyvo6ynHTSTSU=
 			</data>
 		</dict>
+		<key>Headers/DAAudioUnitAACDecoder.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SewN4l1YKyYTJ3hBbtlTRZtx204=
+			</data>
+			<key>hash2</key>
+			<data>
+			rSy1kXCmUu94cmyAw9Ee4RIjR+3Azm9wLlLcOjBBI8w=
+			</data>
+		</dict>
 		<key>Headers/DAAudioUnitPCMPlayer.h</key>
 		<dict>
 			<key>hash</key>
@@ -134,11 +153,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hks4xewFiL0Dl9hDUNlnhMg67Uk=
+			EHpvI2JP/dSF1Ag8nMLcenJAv2g=
 			</data>
 			<key>hash2</key>
 			<data>
-			8iZvAjjPAx7X+AztlwGdc+y3kkW5RDCWDALX79rqdfA=
+			HoyOyOcl3dytLgmWi/rKWWafyZf27clB4/UQj5j91XY=
 			</data>
 		</dict>
 		<key>Headers/DACameraP2PAudioData.h</key>
@@ -194,6 +213,17 @@
 			<key>hash2</key>
 			<data>
 			nU2UXBz+v19Knv9Ky3Q6DbPrkrk1L9lAx9cqzQcEwBA=
+			</data>
+		</dict>
+		<key>Headers/DAG711Manager.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9FhMRzEGKE+/VL6nr5MwWsC4Bm0=
+			</data>
+			<key>hash2</key>
+			<data>
+			F1cusjb0+Y1RyJS+NsCwBS8RgHHhtJ6+ZjJ6WCaBtcE=
 			</data>
 		</dict>
 		<key>Headers/DAMP4RecordManager.h</key>

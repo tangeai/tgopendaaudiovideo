@@ -80,10 +80,6 @@
 		<data>
 		EpXAbE6S2B///WosalbCuGahCX0=
 		</data>
-		<key>Headers/typedefs.h</key>
-		<data>
-		IDRSEqzLYyJ8EuMibgkYDo/eu8g=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		DQhkvABlV4mX+CXnh1MDED7j2a4=
@@ -302,17 +298,6 @@
 			<key>hash2</key>
 			<data>
 			M6Lb7FirzGM5cVSCmrs+pEBsCOh4TersBuijpFDndik=
-			</data>
-		</dict>
-		<key>Headers/typedefs.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IDRSEqzLYyJ8EuMibgkYDo/eu8g=
-			</data>
-			<key>hash2</key>
-			<data>
-			h2g0pYDDg6kbKaDK3C480HyjyB0OvWhwe7VSQ6xL+BI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

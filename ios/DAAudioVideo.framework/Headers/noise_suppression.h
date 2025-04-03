@@ -12,7 +12,7 @@
 #define WEBRTC_MODULES_AUDIO_PROCESSING_NS_INCLUDE_NOISE_SUPPRESSION_H_
 
 //#include "../util/typedefs.h"
-#import "typedefs.h"
+#include "typedefs.h"
 
 typedef struct NsHandleT NsHandle;
 

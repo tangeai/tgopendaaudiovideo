@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/DAAudioVideo.h</key>
 		<data>
-		hg6rJU5uxmK8JZSYBo1rA9prcOA=
+		PCgxRrToULGfSSsjiXih6QpEY/U=
 		</data>
 		<key>Headers/DAAudioVideoDefine.h</key>
 		<data>
@@ -74,11 +74,15 @@
 		</data>
 		<key>Headers/noise_suppression.h</key>
 		<data>
-		ypTyo0APON2tu6CsPH43r13Yt1U=
+		dK5G4OZJHC3Oz80ppuhZD783Yww=
 		</data>
 		<key>Headers/signal_processing_library.h</key>
 		<data>
 		EpXAbE6S2B///WosalbCuGahCX0=
+		</data>
+		<key>Headers/typedefs.h</key>
+		<data>
+		ziXEUkazzEaTcY+RaZhSwceEc0o=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -150,11 +154,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hg6rJU5uxmK8JZSYBo1rA9prcOA=
+			PCgxRrToULGfSSsjiXih6QpEY/U=
 			</data>
 			<key>hash2</key>
 			<data>
-			4vMAIcAKoSTmgfDUJjj6y/XbBL36Pa1tSijSQ8MCJTE=
+			vK1rwaMIKO/AIIElkGFle873ecBrJFwj7Lkzu8X1G7o=
 			</data>
 		</dict>
 		<key>Headers/DAAudioVideoDefine.h</key>
@@ -282,11 +286,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ypTyo0APON2tu6CsPH43r13Yt1U=
+			dK5G4OZJHC3Oz80ppuhZD783Yww=
 			</data>
 			<key>hash2</key>
 			<data>
-			YcIbX6t5iywDNPXS8I8Sx5L2/HxeYxgVo3YLqtg3Khs=
+			7oHjSTRbMRFHeXfbe9XH6DFrBCUFc9Ja2vfCS7L/j6o=
 			</data>
 		</dict>
 		<key>Headers/signal_processing_library.h</key>
@@ -298,6 +302,17 @@
 			<key>hash2</key>
 			<data>
 			M6Lb7FirzGM5cVSCmrs+pEBsCOh4TersBuijpFDndik=
+			</data>
+		</dict>
+		<key>Headers/typedefs.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ziXEUkazzEaTcY+RaZhSwceEc0o=
+			</data>
+			<key>hash2</key>
+			<data>
+			LPBAmo4oJ4ZHFxeqXLpjuADCQRUKQkYq7Nvv10PG49I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

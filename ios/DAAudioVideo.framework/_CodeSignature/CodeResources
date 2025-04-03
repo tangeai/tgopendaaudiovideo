@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/DAAudioVideo.h</key>
 		<data>
-		+uYR1ljPyquTKA8txiNWSUyHdR4=
+		hg6rJU5uxmK8JZSYBo1rA9prcOA=
 		</data>
 		<key>Headers/DAAudioVideoDefine.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/DAMP4RecordManager.h</key>
 		<data>
-		S+xPz39AgbKVzUQ/A/TuJzaVVeE=
+		ln5d9umKmR70C4QFGZJP/fg3GEg=
 		</data>
 		<key>Headers/DASaveWavFileFormatTool.h</key>
 		<data>
@@ -71,6 +71,18 @@
 		<key>Headers/DAVideoSoftwareDecoder.h</key>
 		<data>
 		Eh4dHpiPNUuysvkEiPkTMmiUB14=
+		</data>
+		<key>Headers/noise_suppression.h</key>
+		<data>
+		ypTyo0APON2tu6CsPH43r13Yt1U=
+		</data>
+		<key>Headers/signal_processing_library.h</key>
+		<data>
+		EpXAbE6S2B///WosalbCuGahCX0=
+		</data>
+		<key>Headers/typedefs.h</key>
+		<data>
+		IDRSEqzLYyJ8EuMibgkYDo/eu8g=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -142,11 +154,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+uYR1ljPyquTKA8txiNWSUyHdR4=
+			hg6rJU5uxmK8JZSYBo1rA9prcOA=
 			</data>
 			<key>hash2</key>
 			<data>
-			M3cFYYwkdcBZwFuMz+w/nuTj1qQXK2z0yWGTPFoxJ+o=
+			4vMAIcAKoSTmgfDUJjj6y/XbBL36Pa1tSijSQ8MCJTE=
 			</data>
 		</dict>
 		<key>Headers/DAAudioVideoDefine.h</key>
@@ -230,11 +242,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			S+xPz39AgbKVzUQ/A/TuJzaVVeE=
+			ln5d9umKmR70C4QFGZJP/fg3GEg=
 			</data>
 			<key>hash2</key>
 			<data>
-			ojsyXhWs3eU8DYQhSBH7YveI/OzrMIKC18b21Vn2hG0=
+			I4GTPFVWgil8p7pVQ79LUyi81S2cL6SDP9GmZJg9X9U=
 			</data>
 		</dict>
 		<key>Headers/DASaveWavFileFormatTool.h</key>
@@ -268,6 +280,39 @@
 			<key>hash2</key>
 			<data>
 			y2r6wvB9r5+6Ile7tjRda1rvnWDKGzqnW+Qj86d9LBw=
+			</data>
+		</dict>
+		<key>Headers/noise_suppression.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ypTyo0APON2tu6CsPH43r13Yt1U=
+			</data>
+			<key>hash2</key>
+			<data>
+			YcIbX6t5iywDNPXS8I8Sx5L2/HxeYxgVo3YLqtg3Khs=
+			</data>
+		</dict>
+		<key>Headers/signal_processing_library.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EpXAbE6S2B///WosalbCuGahCX0=
+			</data>
+			<key>hash2</key>
+			<data>
+			M6Lb7FirzGM5cVSCmrs+pEBsCOh4TersBuijpFDndik=
+			</data>
+		</dict>
+		<key>Headers/typedefs.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IDRSEqzLYyJ8EuMibgkYDo/eu8g=
+			</data>
+			<key>hash2</key>
+			<data>
+			h2g0pYDDg6kbKaDK3C480HyjyB0OvWhwe7VSQ6xL+BI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

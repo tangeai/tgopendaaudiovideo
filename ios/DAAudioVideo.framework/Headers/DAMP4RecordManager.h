@@ -31,6 +31,9 @@ NS_ASSUME_NONNULL_BEGIN
 - (BOOL)writeVideoData:(DACameraP2PVideoData *)videoData;
 - (BOOL)writeAudioData:(DACameraP2PAudioData *)audioData;
 
+- (BOOL)autoWriteVideoData:(DACameraP2PVideoData *)videoData;
+- (BOOL)autoWriteAudioData:(DACameraP2PAudioData *)audioData;
+
 @end
 
 NS_ASSUME_NONNULL_END

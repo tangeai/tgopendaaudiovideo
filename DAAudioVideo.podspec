@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "DAAudioVideo"
-  s.version = "1.2.4.1"
+  s.version = "1.2.4.2"
   s.summary = "A short description of TGCommonBaseModule."
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"liubin"=>"liubin361163@163.com"}
@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   s.frameworks = 'UIKit'
   s.libraries = 'bz2','c++','iconv','z'
   s.dependency 'CocoaLumberjack'
-  s.dependency 'ffmpeg-kit-ios-full', '~> 6.0'
+  s.dependency 'TGFFmpegKit', '6.0'
 end

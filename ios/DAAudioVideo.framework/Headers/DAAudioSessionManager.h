@@ -23,7 +23,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, assign, readonly) BOOL playing;
 @property (nonatomic, assign, readonly) BOOL speaking;
 @property (nonatomic, assign, readonly) BOOL hasAudioPlaying;
-
+@property (nonatomic, assign) NSInteger noisereDuctionLevel;
 @property (nonatomic, assign) CGFloat voiceRaiseRate;
 @property (nonatomic, weak) id <DAAudioSessionManagerDelegate>delegate;
 

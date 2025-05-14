@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/DAAudioSessionManager.h</key>
 		<data>
-		G/HCX0T17wLCaaoiGVMomg1SiCA=
+		jjpqQta2rmw/7ULNvtCxxDZY3rA=
 		</data>
 		<key>Headers/DAAudioUnitAACDecoder.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Q/KQkX7saaIe/Hz9U5HOW2mrlXw=
+		VGgU68Uu2a960VXgux1QNbeXy6s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -114,11 +114,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G/HCX0T17wLCaaoiGVMomg1SiCA=
+			jjpqQta2rmw/7ULNvtCxxDZY3rA=
 			</data>
 			<key>hash2</key>
 			<data>
-			VKcQcY6WH48V4NF1kZwJ4rCq5lrYAcHyvo6ynHTSTSU=
+			+jYmxLBKjQpL+oMnQQP9HA+35HOBff/giATbV2Tz7fg=
 			</data>
 		</dict>
 		<key>Headers/DAAudioUnitAACDecoder.h</key>
